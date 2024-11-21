@@ -6,7 +6,8 @@
 有了这个思路，第一时间通过 github 开源出来，希望大家一起迭代优化。
 
 # 部署运行
-在大模型输入框中，输入以下文字：
-···
+https://raw.githubusercontent.com/lisanmiaoanda/PromptCode/refs/heads/main/prompt.md
+- 拷贝网页内容，输入到大模型输入框，回车执行。
+- 输入 PromptCode 代码
+- 回车执行
 
-···
